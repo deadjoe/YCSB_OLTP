@@ -18,7 +18,7 @@ LICENSE file.
 
 Yahoo! Cloud System Benchmark (YCSB)
 ====================================
-[![Build Status](https://travis-ci.org/brianfrankcooper/YCSB.png?branch=master)](https://travis-ci.org/brianfrankcooper/YCSB)
+[![Build Status](https://travis-ci.org/deadjoe/YCSB_OLTP.svg?branch=master)](https://travis-ci.org/deadjoe/YCSB_OLTP)
 
 Links
 -----
