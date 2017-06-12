@@ -41,27 +41,7 @@ LICENSE file.
     </dependency>
     <dependency>
       <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>accumulo-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
       <artifactId>aerospike-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>arangodb-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>arangodb3-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>asynchbase-binding</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
@@ -86,16 +66,6 @@ LICENSE file.
     </dependency>
     <dependency>
       <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>azuredocumentdb-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>dynamodb-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
       <artifactId>elasticsearch-binding</artifactId>
       <version>${project.version}</version>
     </dependency>
@@ -106,52 +76,12 @@ LICENSE file.
     </dependency>
     <dependency>
       <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>googledatastore-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>googlebigtable-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>hbase094-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>hbase098-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>hbase10-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>hbase12-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>hypertable-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
       <artifactId>infinispan-binding</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>com.yahoo.ycsb</groupId>
       <artifactId>jdbc-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>kudu-binding</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
@@ -171,16 +101,6 @@ LICENSE file.
     </dependency>
     <dependency>
       <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>orientdb-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>rados-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
       <artifactId>redis-binding</artifactId>
       <version>${project.version}</version>
     </dependency>
@@ -189,38 +109,6 @@ LICENSE file.
       <artifactId>rest-binding</artifactId>
       <version>${project.version}</version>
     </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>riak-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>s3-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>solr-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>solr6-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>tarantool-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
-<!--
-    <dependency>
-      <groupId>com.yahoo.ycsb</groupId>
-      <artifactId>voldemort-binding</artifactId>
-      <version>${project.version}</version>
-    </dependency>
--->
   </dependencies>
   <build>
     <plugins>
